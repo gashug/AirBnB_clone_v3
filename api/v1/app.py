@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" A register blueprint to follow """
 import os
 from flask import Flask
 from models import storage
